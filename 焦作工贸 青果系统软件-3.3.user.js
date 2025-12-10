@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         焦作工贸 青果系统软件
 // @namespace    http://tampermonkey.net/
-// @version      3.3
-// @description  由zz制作
+// @version      3.4
+// @description  由翟雨晨制作
 // @author       You
 // @match        https://jwxt.jzcit.edu.cn/*
 // @grant        GM_addStyle
